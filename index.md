@@ -1,3 +1,8 @@
+---
+layout: default
+title: About me
+---
+
 # Howdy!
 
 This is my front page. Please visit my [GitHub](https://github.com/Chillwave).
