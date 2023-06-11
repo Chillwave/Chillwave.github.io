@@ -5,7 +5,7 @@ title: About me
 
 # Howdy!
 
-This is my front page. Please visit my [GitHub](https://github.com/Chillwave) & my [LinkedIn]([https://github.com/Chillwave](https://www.linkedin.com/in/brandon-valdivia-online/)).
+This is my front page. Please visit my [GitHub](https://github.com/Chillwave) & my [LinkedIn](https://www.linkedin.com/in/brandon-valdivia-online/).
 
 
 ## Projects
