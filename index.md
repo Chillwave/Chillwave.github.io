@@ -5,6 +5,9 @@ title: About us
 
 # Valdi-via Research
 
+![Valdi-via Research Logo](logo.png)
+
+
 Welcome to Valdi-via Research, the community go-to resource for cutting-edge network solutions engineering and architecture.
 
 ## About Us
