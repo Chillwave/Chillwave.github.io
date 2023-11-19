@@ -1,19 +1,40 @@
 ---
 layout: default
-title: About me
+title: About us
 ---
 
-# Howdy!
+# Valdi-via Research
 
-This is my front page. Please visit my [GitHub](https://github.com/Chillwave) & my [LinkedIn](https://www.linkedin.com/in/brandon-valdivia-online/).
+Welcome to Valdi-via Research, your go-to resource for cutting-edge network solutions engineering and architecture.
 
+## About Us
 
-## Projects
+Valdi-via Research is a dynamic team of experts dedicated to pushing the boundaries of network technology. With a passion for innovation and a commitment to excellence, we specialize in crafting robust solutions that meet the complex demands of modern networks.
 
-Here are some of my recent projects:
+## Services
 
-- [South Florida ADS-B](http://119xx.valdi-via.com:35565/): An instance of Dump1090 modified to default the map to lower South Florida along with additional local resoucres.
+### Network Solutions Engineering
 
-## Hobbies
+Our network solutions engineering services encompass a wide range of expertise, from designing scalable and efficient architectures to implementing state-of-the-art solutions tailored to your specific needs. Whether you're looking to optimize existing networks or build from the ground up, we've got you covered.
 
-- [My Strava proflie](https://www.strava.com/athletes/91396038): [Join the club](https://www.strava.com/clubs/RunFree305)
+### Architecture Design
+
+At Valdi-via Research, we understand the importance of a well-designed architecture. Our team excels in creating blueprints that not only meet current requirements but also lay the foundation for future scalability and adaptability. Explore our architectural design services to ensure your network is built for success.
+
+## Why Choose Valdi-via Research?
+
+- **Innovation:** We stay ahead of the curve, leveraging the latest technologies to deliver innovative solutions.
+  
+- **Expertise:** Our team consists of seasoned professionals with a wealth of experience in network engineering and architecture.
+
+- **Client-Centric Approach:** Your success is our priority. We work closely with clients to understand their unique challenges and tailor solutions accordingly.
+
+## Contact Us
+
+Ready to elevate your network infrastructure? Reach out to us for a consultation.
+
+[Contact Valdi-via Research](mailto:research@valdi-via.com)
+
+---
+
+*Valdi-via Research - Advancing Networks, Empowering Businesses*
