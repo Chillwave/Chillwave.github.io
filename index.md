@@ -5,7 +5,7 @@ title: About us
 
 # Valdi-via Research
 
-Welcome to Valdi-via Research, your go-to resource for cutting-edge network solutions engineering and architecture.
+Welcome to Valdi-via Research, the community go-to resource for cutting-edge network solutions engineering and architecture.
 
 ## About Us
 
@@ -19,7 +19,7 @@ Our network solutions engineering services encompass a wide range of expertise, 
 
 ### Architecture Design
 
-At Valdi-via Research, we understand the importance of a well-designed architecture. Our team excels in creating blueprints that not only meet current requirements but also lay the foundation for future scalability and adaptability. Explore our architectural design services to ensure your network is built for success.
+At Valdi-via Research, we understand the importance of a well-designed architecture. Our team excels in creating solutions that not only meet current requirements but also lay the foundation for future scalability and adaptability. Explore our architectural design services to ensure your network is built for success.
 
 ## Why Choose Valdi-via Research?
 
@@ -37,4 +37,4 @@ Ready to elevate your network infrastructure? Reach out to us for a consultation
 
 ---
 
-*Valdi-via Research - Advancing Networks, Empowering Businesses*
+*Valdi-via Research - Advancing Networks & Empowering Businesses for success*
