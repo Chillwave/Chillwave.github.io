@@ -8,7 +8,7 @@ title: About us
 ![Valdi-via Research Logo](logo.png)
 
 
-Welcome to Valdi-via Research, the community go-to resource for cutting-edge network solutions engineering and architecture.
+Welcome to Valdi-via Research, the community go-to resource for cutting-edge network solutions, engineering and architecture.
 
 ## About Us
 
@@ -23,6 +23,32 @@ Our network solutions engineering services encompass a wide range of expertise, 
 ### Architecture Design
 
 At Valdi-via Research, we understand the importance of a well-designed architecture. Our team excels in creating solutions that not only meet current requirements but also lay the foundation for future scalability and adaptability. Explore our architectural design services to ensure your network is built for success.
+
+### Compliance Management
+
+We recognize the critical importance of compliance with industry standards and regulations. Our  services ensure that your network architecture adheres to relevant legal and regulatory requirements, safeguarding sensitive data and minimizing potential risks. Trust us to navigate the complex landscape of compliance, providing you with peace of mind and a network that meets all necessary standards.
+
+### Security Integration
+
+Security is paramount in today's interconnected world. Our solutions include robust security integration services to fortify your architecture against cyber threats. From firewall implementations to intrusion detection systems, we prioritize the confidentiality, integrity, and availability of your network resources.
+
+### Performance Monitoring and Optimization
+
+Ensuring the ongoing efficiency of your network is crucial. Our services extend to comprehensive performance monitoring and optimization, guaranteeing that your network operates at peak performance. By continually analyzing and fine-tuning your architecture, we enhance responsiveness, reduce latency, and optimize resource utilization.
+
+### Emerging Technologies Adoption
+
+To stay ahead in the rapidly evolving tech landscape, we specialize in the adoption of emerging technologies. Our team is well-versed in the latest advancements, incorporating innovative solutions that align with your business objectives. Whether it's the integration of IoT devices, SD-WAN implementation, or the utilization of AI-driven analytics, we ensure your network remains at the forefront of technological progress.
+
+### Disaster Recovery Planning
+
+Unforeseen events can disrupt network operations. Our services extend to comprehensive disaster recovery planning, encompassing data backup strategies, continuity measures, and rapid recovery protocols. In the face of unexpected challenges, our solutions guarantee minimal downtime and data loss, ensuring the resilience of your network infrastructure.
+
+### Continuous Education and Training
+
+Knowledge is a key asset in maintaining a robust network. We offer continuous education and training services to keep your team abreast of the latest technologies, security threats, and best practices. Empower your staff with the skills needed to manage, troubleshoot, and optimize the network effectively.
+
+
 
 ## Why Choose Valdi-via Research?
 
