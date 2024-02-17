@@ -64,6 +64,9 @@ Knowledge is a key asset in maintaining a robust network. We offer continuous ed
 
 [GitHub - Chillwave](https://github.com/Chillwave/)
 
+
+## Articles
+[Importance of secure email services such as ProtonMail](protonmail_article_entry.md)
 ## Contact Us
 
 Ready to elevate your network infrastructure? Reach out to us for a consultation.
