@@ -60,9 +60,11 @@ Knowledge is a key asset in maintaining a robust network. We offer continuous ed
 
 ## Online Services
 
-[Dump1090 Miami](http://119xx.valdi-via.com:11090/)
+[Dump1090 Miami](https://adsb01.valdi-via.com/)
 
-[Blow up your PDFs 4x (by combining the splitted quarters)](http://pdfblowup.valdi-via.com/)
+[Blow up your PDFs 4x (by combining the splitted quarters)](https://pdfblowup.valdi-via.com/)
+
+[Public Clipboard Service](https://pcs.valdi-via.com/)
 
 [GitHub - Chillwave](https://github.com/Chillwave/)
 
