@@ -30,11 +30,19 @@ We recognize the critical importance of compliance with industry standards and r
 
 ### Security Integration
 
-Security is paramount in today's interconnected world. Our solutions include robust security integration services to fortify your architecture against cyber threats. From firewall implementations to intrusion detection systems, we prioritize the confidentiality, integrity, and availability of your network resources.
+Security is paramount in today's interconnected world. Our solutions include robust security integration services to fortify your architecture against cyber and physical threats. From firewall implementations to intrusion detection systems, we prioritize the confidentiality, integrity, and availability of your network resources.
+
+### Comprehensive Zero Trust and VPN Implementations
+
+Our Advanced Zero Trust and VPN Services ensure robust protection against unauthorized access and cyber threats. By adopting a Zero Trust architecture, we enforce strict verification for every user and device. Our VPN solutions provide secure, encrypted connections for remote access. We utilize industry-leading technologies such as Cloudflare Zero Trust to implement comprehensive security solutions tailored to your specific needs. Trust us to safeguard your data and ensure compliance with industry standards.
 
 ### Performance Monitoring and Optimization
 
 Ensuring the ongoing efficiency of your network is crucial. Our services extend to comprehensive performance monitoring and optimization, guaranteeing that your network operates at peak performance. By continually analyzing and fine-tuning your architecture, we enhance responsiveness, reduce latency, and optimize resource utilization.
+
+### Network Hardening Services
+
+Enhance your network security with our comprehensive Network Hardening Services. We meticulously comb through your network and user configurations to enforce stringent security measures. This includes mandating Multi-Factor Authentication (MFA), implementing least privilege access controls, and enforcing robust encryption protocols. Our approach ensures that your network is resilient against cyber threats, minimizing vulnerabilities and maximizing security. Trust us to fortify your network and protect your critical assets.
 
 ### Emerging Technologies Adoption
 
@@ -48,6 +56,13 @@ Unforeseen events can disrupt network operations. Our services extend to compreh
 
 Knowledge is a key asset in maintaining a robust network. We offer continuous education and training services to keep your team abreast of the latest technologies, security threats, and best practices. Empower your staff with the skills needed to manage, troubleshoot, and optimize the network effectively.
 
+### Proxmox-Based Virtualization as a Service
+
+Leverage our scalable Proxmox-based virtualization solutions tailored to meet your specific needs. Whether you require a single virtual machine or a complex virtualized environment, our services ensure optimal performance, security, and scalability.
+
+### Custom UniFi Cloud Hosting
+
+Experience the power of custom UniFi cloud hosting designed specifically for vendors. Our solutions provide seamless integration, robust performance, and unparalleled security, ensuring your UniFi networks operate at their best.
 
 
 ## Why Choose Valdi-via Research?
